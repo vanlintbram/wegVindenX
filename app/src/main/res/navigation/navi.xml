@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<navigation xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto" android:id="@+id/navi"
+    app:startDestination="@id/intro">
+    <fragment
+        android:id="@+id/intro"
+        android:name="be.brussel.vanlintbram.wegvindenx.intro"
+        android:label="intro" >
+        <action
+            android:id="@+id/action_intro_to_navigatie2"
+            app:destination="@id/navigatie2" />
+    </fragment>
+    <fragment
+        android:id="@+id/kaart"
+        android:name="be.brussel.vanlintbram.wegvindenx.kaart"
+        android:label="kaart" />
+    <fragment
+        android:id="@+id/navigatie2"
+        android:name="be.brussel.vanlintbram.wegvindenx.navigatie"
+        android:label="navigatie" />
+</navigation>

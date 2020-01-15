@@ -1,0 +1,30 @@
+<resources>
+    <string name="app_name">wegVindenX</string>
+    <string name="introTitel">Intro Fragment</string>
+    <string name="introHint">Geef Bestemming in...</string>
+    <string name="introButton">Zoek Bestemming</string>
+    <string name="kaartTitel">Kaart Fragment</string>
+    <string name="navigatieTitel">Navigatie Fragment</string>
+    <string name="navigatieBeschrijving">Weg Beschrijving</string>
+    <string name="navigatieBestemming">De Bestemming</string>
+    <string name="Kaart">Kaart</string>
+    <string name="Intro">Intro</string>
+    <string name="Navigatie">Navigatie</string>
+    <string name="Grimbergen">Grimbergen</string>
+    <string name="Beigem">Beigem</string>
+    <string name="Humbeek">Humbeek</string>
+    <string name="Vilvoorde">Vilvoorde</string>
+    <string name="Kappelle">Kappelle</string>
+    <string name="Diegem">Diegem</string>
+    <string name="Molenbeek">Molenbeek</string>
+    <string name="GrimbergenBes">Ga noordelijk</string>
+    <string name="BiegemBes">Ga noordoostelijk</string>
+    <string name="HumbeekBes">Ga oostelijk</string>
+    <string name="VilvoordeBes">Ga zuidoostelijk</string>
+    <string name="KapelleBes">Ga zuidelijk</string>
+    <string name="DiegemBes">Ga zuidwestelijk</string>
+    <string name="MolenbeekBes">Ga westelijk</string>
+    <string name="onbekend">Deze bestemming ken ik niet</string>
+    <string name="share">Share</string>
+
+</resources>
